@@ -2,6 +2,7 @@
 ## 用途
 * kakera主催のイベント用に交流のためのエンタメとして作成。
 * 応用用途として、宝探しで宝物を取集するなど。
+* Zennの記事: https://zenn.dev/kakera_lab/articles/f74c068e67a600
 ## 中身
 * NFCをiPhone/Androidで読み込んでAPI通信を行うシステム。
   * NFC読み取る処理は端末に丸投げしている。 
